@@ -1,0 +1,118 @@
+{
+    "name": "Zaryab",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Zaryab Ali - curious",
+    "headerTaglineThree": "Web Developer",
+    "headerTaglineFour": " based in Islamabad, Pakistan.",
+    "showBlog": true,
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/zaryab-ali"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/zaryab-ali-755b9b23b/"
+      },
+      {
+        "id": "3",
+        "title": "Twitter",
+        "link": " https://x.com/Zaryab_the_6th?t=yU2GpyTz4QhbzcaHMDxHMQ&s=08"
+      },
+      { "id": "4", "title": "Blog", "link": " https://x.com/Zaryab_the_6th?t=yU2GpyTz4QhbzcaHMDxHMQ&s=08" },
+      { "id": "5", "title": "Email", "link": "mailto:zaryabali768@gmail.com" }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Music App",
+        "description": "prototype of final year project",
+        "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/music-player"
+      },
+      {
+        "id": "2",
+        "title": "wildfire tracker",
+        "description": "NASA API and google maps based app that tracks recent natural catastrophies and plants the location on google maps",
+        "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/wildfire-tracker"
+      },
+      {
+        "id": "3",
+        "title": "News scrapper",
+        "description": "a node js api that scraps news from recent news articles",
+        "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/node-news-scrapper"
+      },
+      {
+        "id": "4",
+        "title": "image classifier",
+        "description": "A python based image classifier with gui trained on cifer10 dataset that classies image in one of 10 classes(traning code included)",
+        "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/image-classification"
+      },
+      {
+        "id": "5",
+        "title": "Genre Detection",
+        "description": "A trained and tested RNN model that classifies music into its respective categories(ipynb file included)",
+        "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/genre-detection"
+      },
+      {
+        "id": "6",
+        "title": "Recommendation system",
+        "description": "a module of my final project that does history based recommendations for users(ipynb file included)",
+        "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        "url": "https://github.com/zaryab-ali/genre-detection"
+      }
+    ],
+    "services": [
+      {
+        
+        "id": "1",
+        "title": "Web Design",
+        "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+        "id": "2",
+        "title": "3D Design",
+        "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      }
+    ],
+    "aboutpara": "Currently working as a software engineer. I am passionate about MERN stack development and new technologies emerging in web development.",
+    "resume": {
+      "tagline": "👋  I'm a software engineer, product designer, and maker.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "oct 2023 - dec 2023",
+          "type": "Full Time",
+          "position": "SQA engineer at alachisoft",
+          "bullets": [
+            "During my tenure at Alachisoft, while undergoing intensive training on NCache, I also actively engaged in various quality assurance activities. This included manual testing across diverse functionalities, and identifying issues within documentation to enhance its accuracy. Additionally, I extensively tested and scrutinized the locking mechanisms, as well as evaluated the performance of asynchronous and bulk operations within NCache"
+            
+          ]
+        },
+        {
+          "id": "2",
+          "dates": "Nov 2022 - sep 2023",
+          "type": "Full Time",
+          "position": "fiver",
+          "bullets": ["Developed the user interface for an online shoe store using React.js, enhancing user experience with dynamic animations via Framer Motion. Integrated a wide range of icons efficiently using Iconify, contributing to a visually appealing and user-friendly design"]
+        }
+      ],
+      "education": {
+        "universityName": "COMSATS University Islamabad",
+        "universityDate": "2019-2024",
+        "universityPara": "completed my bachelor in computer science from comsats Islamabad in 2024 "
+      },
+      "languages": ["Javascript", "HTML5", "CSS", "Python"],
+      "frameworks": ["React", "Typescript", "NodeJs"],
+      "others": ["Figma", "AdobeXD", "AWS"]
+    }
+  }
+  
